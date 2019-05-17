@@ -17,3 +17,10 @@
  flex-wrap: wrap;
  justify-content: space-between;
 }
+
+.noth {
+ display: none;
+}
+.block {
+ display: block;
+}
